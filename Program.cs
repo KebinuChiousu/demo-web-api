@@ -7,7 +7,7 @@ using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.Extensions.Configuration;
 
-namespace demo_web_api
+namespace demowebapi
 {
     public class Program
     {
